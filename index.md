@@ -21,7 +21,7 @@ Tech writers do the following:
 
 1. Author documentation and store it in a version control system. 
 
-  _Over the last few years I've been using GitHub._
+    _Over the last few years I've been using GitHub._
   
  2. Use some kind of static site generator (SSG) to generate HTML output. 
  3. FTP to a documentation site. The content could be hosted on your company's site or hosting provider such as Amazon.
