@@ -1,4 +1,4 @@
-# Quick Start for GitHub
+# Quick Start
 
 ## About
 I'm learning GitHub publishing on GitHub pages.
