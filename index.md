@@ -24,7 +24,7 @@ It's much like the [developer appoach](#The-Developer-approach).
 <details>
   <summary>Tech writers do the following:</summary>
   
- 1. Author documentation and store it in a version control system. 
+ 1. Author documentation. 
   
  2. Push to GitHub.
   
