@@ -5,6 +5,10 @@ I'm learning GitHub publishing on GitHub pages.
 
 **Note:** I like using the "down" style in headings.
 
+I discovered you can add some colors to your markdown. 
+
+<span style="font-weight:bold; color:red">Dire warning here!</span>
+
 ## What is docs-as-code?
 Docs-as-code is an approach to writing and publishing documentation with the same tools and processes developers use to create code. 
 
