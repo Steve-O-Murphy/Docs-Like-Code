@@ -22,10 +22,15 @@ Developers do the following:
 Much like the [developer appoach[(#The-Developer-approach).
 <details>
   <summary>Tech writers do the following:</summary>
+  
  1. Author documentation and store it in a version control system. 
+  
  2. Push to GitHub.
+  
  3. Create a PR with reviewers.
+  
  4. Do the edit/revise/push cycle.
+  
  5. Merge changes.
 
  </details>
