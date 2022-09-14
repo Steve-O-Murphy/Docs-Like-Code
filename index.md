@@ -12,19 +12,21 @@ Developers do the following:
 1. Author code.
 2. Create some kind of executable.
 3. Do unit tests.
-4. Pass it off to QA for additional tests.
-5. Publish the final version
+4. Push to GitHub.
+5. Create PR with reviewers.
+6. Do the edit/review/push cycle.
+7. Merge the changes.
 
 ## The tech writer approach
 
+Much like the [developer appoach[(#The-Developer-approach).
 <details>
   <summary>Tech writers do the following:</summary>
-  1. Author documentation and store it in a version control system. 
-
-    _Over the last few years I've been using GitHub._
-  
- 2. Use some kind of static site generator (SSG) to generate HTML output. 
- 3. FTP to a documentation site. The content could be hosted on your company's site or hosting provider such as Amazon.
+ 1. Author documentation and store it in a version control system. 
+ 2. Push to GitHub.
+ 3. Create a PR with reviewers.
+ 4. Do the edit/revise/push cycle.
+ 5. Merge changes.
 
  </details>
 
