@@ -7,7 +7,7 @@ I'm learning GitHub publishing on GitHub pages.
 
 I discovered you can add some colors to your markdown. 
 ```json
-   <span style="font-weight:bold; color:red">Dire warning here!</span>
+   Dire warning here!
 ```
 
 
