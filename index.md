@@ -19,7 +19,7 @@ Developers do the following:
 
 ## The tech writer approach
 
-Much like the [developer appoach[(#The-Developer-approach).
+Much like the [developer appoach](#The-Developer-approach).
 <details>
   <summary>Tech writers do the following:</summary>
   
