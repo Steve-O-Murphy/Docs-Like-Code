@@ -17,10 +17,8 @@ Developers do the following:
 
 ## The tech writer approach
 
-Tech writers do the following:
-
 <details>
-  <summary>Click me</summary>
+  <summary>Tech writers do the following:</summary>
   1. Author documentation and store it in a version control system. 
 
     _Over the last few years I've been using GitHub._
