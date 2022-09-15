@@ -1,8 +1,5 @@
 # Quick Start
 
-## About
-I'm learning GitHub publishing on GitHub pages.
-
 **Note:** I like using the "down" style in headings.
 
 ## What is docs-as-code?
